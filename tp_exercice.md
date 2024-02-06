@@ -1,70 +1,70 @@
-#marketing
+# marketing
 
-expert SEO
+## expert SEO
         - technique de référencement
         - analyse de mots clés
         - optimiser le contenu
         - suivi des performances du site
 
-Community Manager
+## Community Manager
         - animer les réseaux sociaux
         - content marketing
         - animation de la communauté
 
-Tests
+# Tests
 
-Testeur
+## Testeur
         - Réaliser les différents tests (fonctionnel, unitaire, intégration)
         - Maitrise des outils de test (ex : sélénium)
 
-QA Manager 
+## QA Manager 
         - garantir la qualité d'une application
         - savoir faire des tests review
         - encadrer une équipe de testeur
 
-Produit
+# Produit
 
-Product Owner
+## Product Owner
         - interpréter les besoins clients
         - relation client
         - maitriser les méthodes agiles
 
-Chef de projet
+## Chef de projet
         - coordonner les différentes équipes qui travaille sur le produit
         - rendre compte à la hierarchie
         - maitrise des différents outils tech utilisés
 
-Design
+# Design
 
-UI designer
+## UI designer
         - optimiser l'expérience utilisateur
         - matrise des différents outils design comme Figma
 
-graphiste
+## Graphiste
         - fait des trucs jolis
         - doit absolument maitriser la suite adobe
 
-Data
+# Data
 
-Data analyst
+## Data analyst
         - exploiter et interpréter les données
         - avoir des compétences en statistique
         - compétences en code (python)
 
-Rédaction
+# Rédaction
 
-Rédacteur web 
+## Rédacteur web 
         - rédiger du contenu pertinent
         - maitrise de la langue écrite
 
-Equipe
+# Equipe
 
-Scrum Master
+## Scrum Master
         - garant de la bonne application des différentes méthodes agiles
         - connaitre ses équipes
         - savoir communiquer
 
-Lead tech/dev
+## Lead tech/dev
         - déterminer la stack technique
         - référent technique
         - le boss.
